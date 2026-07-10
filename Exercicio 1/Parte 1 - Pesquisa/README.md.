@@ -1,0 +1,29 @@
+# Exercício 1 - Parte 1: Pesquisa
+
+O que é Frontend?
+
+Frontend é a parte de um site ou aplicação com a qual o usuário interage diretamente. Ele é responsável pela interface, pelo layout, pelos botões, menus, imagens e demais elementos visuais exibidos no navegador.
+
+O que é Cliente x Servidor?
+
+O modelo Cliente x Servidor é uma forma de comunicação entre computadores.
+
+- **Cliente:** é o dispositivo ou navegador utilizado pelo usuário para acessar um site ou sistema e fazer solicitações.
+- **Servidor:** é o computador que recebe essas solicitações, processa as informações e envia uma resposta ao cliente.
+
+Por exemplo, quando você acessa um site, seu navegador (cliente) solicita as páginas ao servidor, que retorna os arquivos necessários para exibição.
+
+## Qual é o papel do HTML, CSS e JavaScript?
+
+- HTML (HyperText Markup Language): define a estrutura e o conteúdo da página, como títulos, parágrafos, imagens e links.
+- CSS (Cascading Style Sheets): é responsável pela aparência da página, controlando cores, fontes, tamanhos, espaçamentos e o layout.
+- JavaScript: adiciona interatividade às páginas, permitindo ações como validação de formulários, animações e atualização dinâmica de conteúdo.
+
+O que é W3C?
+
+O W3C (World Wide Web Consortium)** é uma organização internacional que desenvolve padrões para a Web. Seu objetivo é garantir que sites e aplicações sejam acessíveis, compatíveis e funcionem corretamente em diferentes navegadores e dispositivos.
+
+Referências
+
+- https://developer.mozilla.org/pt-BR/
+- https://www.w3.org/
