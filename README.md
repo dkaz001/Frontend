@@ -38,5 +38,28 @@ Cria uma lista não ordenada (com marcadores).
 ### <ol>
 Cria uma lista ordenada (numerada).
 
+
+
+# Parte 4 - Links e Imagens
+
+## Link externo
+O link externo direciona o usuário para outro site utilizando a tag `<a>` com um endereço (URL).
+
+## Link interno
+O link interno leva o usuário para uma seção da mesma página utilizando um identificador (`id`).
+
+## Imagem local
+A imagem é exibida utilizando a tag `<img>`, indicando o caminho do arquivo na pasta `img`.
+
+## Como corrigir uma imagem quebrada?
+
+Se uma imagem não aparecer, eu verificaria:
+
+1. Se o nome do arquivo está correto.
+2. Se a extensão da imagem está correta (.png, .jpg, .jpeg etc.).
+3. Se a imagem realmente está dentro da pasta `img`.
+4. Se o caminho informado no atributo `src` está correto.
+5. Se não há diferença entre letras maiúsculas e minúsculas no nome do arquivo.
+
 ### <li>
 Representa um item dentro de uma lista.
