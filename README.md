@@ -61,5 +61,37 @@ Se uma imagem não aparecer, eu verificaria:
 4. Se o caminho informado no atributo `src` está correto.
 5. Se não há diferença entre letras maiúsculas e minúsculas no nome do arquivo.
 
+
+# Projeto Final
+
+## Objetivo
+
+Criar uma página web simples utilizando HTML semântico, imagens, links e uma interação com JavaScript.
+
+## Estrutura de pastas
+
+- `index.html` → página principal.
+- `css/style.css` → arquivo de estilos.
+- `js/script.js` → arquivo JavaScript.
+- `img/` → armazena as imagens do projeto.
+- `README.md` → documentação do projeto.
+
+## Como abrir o projeto
+
+Abra o arquivo `index.html` em qualquer navegador de internet.
+
+## Validação/Revisão realizada
+
+- Estrutura HTML revisada.
+- Uso das tags semânticas `header`, `nav`, `main`, `section` e `footer`.
+- Verificação dos links.
+- Verificação do caminho da imagem.
+- Teste da interação em JavaScript.
+
+## Referências
+
+- https://developer.mozilla.org/pt-BR/docs/Web/HTML
+- https://www.w3.org/
+
 ### <li>
 Representa um item dentro de uma lista.
