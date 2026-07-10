@@ -27,3 +27,29 @@ Referências
 
 - https://developer.mozilla.org/pt-BR/
 - https://www.w3.org/
+
+
+# Estrutura do Projeto
+
+## Arquivos
+
+### index.html
+É o arquivo principal da página web. Nele fica a estrutura do conteúdo utilizando HTML.
+
+### README.md
+Contém informações e explicações sobre o projeto e sua organização.
+
+## Pastas
+
+### css/
+Armazena os arquivos de estilo da página.
+
+- **style.css:** define a aparência do site, como cores, fontes, espaçamentos e layout.
+
+### js/
+Armazena os arquivos JavaScript.
+
+- **script.js:** adiciona funcionalidades e interatividade à página.
+
+### img/
+Armazena as imagens utilizadas no projeto, como ícones, logos e fotografias.
