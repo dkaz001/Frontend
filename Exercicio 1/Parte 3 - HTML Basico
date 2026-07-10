@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Básico</title>
+</head>
+<body>
+
+    <h1>Introdução ao Frontend</h1>
+
+    <h2>O que é Frontend?</h2>
+    <p>Frontend é a parte de um site ou sistema com a qual o usuário interage diretamente.</p>
+
+    <h2>Tecnologias do Frontend</h2>
+    <p>As principais tecnologias utilizadas são HTML, CSS e JavaScript.</p>
+    <p>Juntas, elas permitem criar páginas estruturadas, bonitas e interativas.</p>
+
+    <h2>Tecnologias Web</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Git</li>
+    </ul>
+
+    <h2>Passos para estudar Frontend</h2>
+    <ol>
+        <li>Aprender HTML.</li>
+        <li>Estudar CSS.</li>
+        <li>Praticar JavaScript.</li>
+        <li>Criar projetos.</li>
+    </ol>
+
+</body>
+</html>
