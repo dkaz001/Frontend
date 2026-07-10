@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links e Imagens</title>
+</head>
+<body>
+
+    <h1>Links e Imagens em HTML</h1>
+
+    <h2>Link Externo</h2>
+    <p>
+        Acesse a documentação oficial do HTML:
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+            MDN Web Docs - HTML
+        </a>
+    </p>
+
+    <h2>Link Interno</h2>
+    <p>
+        <a href="#contato">Ir para a seção Contato</a>
+    </p>
+
+    <h2>Imagem Local</h2>
+    <img src="img/imagem-escolhida.png"
+         alt="Imagem ilustrativa sobre desenvolvimento web"
+         width="300">
+
+    <hr>
+
+    <h2 id="contato">Contato</h2>
+    <p>E-mail: exemplo@email.com</p>
+
+</body>
+</html>
