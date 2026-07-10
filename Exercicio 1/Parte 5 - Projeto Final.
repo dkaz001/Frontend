@@ -1,0 +1,66 @@
+frontend/
+└── Exercicio 1/
+    └── Parte 5 - Projeto Final/
+        ├── index.html
+        ├── README.md
+        ├── css/
+        │   └── style.css
+        ├── js/
+        │   └── script.js
+        └── img/
+            └── tecnologia.jpg
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Final</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Meu Projeto de Tecnologia</h1>
+
+    <nav>
+        <a href="#sobre">Sobre</a> |
+        <a href="#contato">Contato</a>
+    </nav>
+</header>
+
+<main>
+
+    <section id="sobre">
+        <h2>Sobre</h2>
+        <p>Este projeto apresenta uma página simples utilizando HTML semântico.</p>
+
+        <img src="img/tecnologia.jpg"
+             alt="Imagem relacionada à tecnologia"
+             width="300">
+
+        <p>
+            Saiba mais em:
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">MDN HTML</a>
+        </p>
+
+        <p>
+            Conheça também:
+            <a href="https://www.w3.org/" target="_blank">W3C</a>
+        </p>
+
+        <button onclick="mostrarMensagem()">
+            Clique aqui
+        </button>
+    </section>
+
+</main>
+
+<footer id="contato">
+    <p>Contato: exemplo@email.com</p>
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
