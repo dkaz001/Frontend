@@ -1,1 +1,5 @@
-A principal diferença é que a tag <div> é genérica e não explica o conteúdo que guarda. O HTML semântico usa tags específicas (como <header>, <article> ou <footer>) que dão significado ao texto. Isso ajuda ferramentas de busca (como o Google) e leitores de tela a entenderem seu site
+A principal diferença é que a tag <div> é genérica e não explica o conteúdo que guarda. 
+
+O HTML semântico usa tags específicas (como <header>, <article> ou <footer>) que dão significado ao texto.
+
+Isso ajuda ferramentas de busca (como o Google) e leitores de tela a entenderem seu site
