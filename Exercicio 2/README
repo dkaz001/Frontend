@@ -43,3 +43,9 @@ Já o HTML semântico utiliza tags que descrevem a função do conteúdo, como `
 ## Conclusão
 
 A `<div>` serve apenas para organizar elementos, enquanto o HTML semântico descreve o significado e a função de cada parte da página, tornando o código mais organizado, acessível e fácil de manter.
+]
+
+
+git add .
+git commit -m "Adiciona exercício 2 sobre div e HTML semântico"
+git push
