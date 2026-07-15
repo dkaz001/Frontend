@@ -95,3 +95,10 @@ Abra o arquivo `index.html` em qualquer navegador de internet.
 
 ### <li>
 Representa um item dentro de uma lista.
+
+
+## Conclusão
+
+O table-based layout é uma técnica antiga que utilizava tabelas para organizar toda a estrutura visual de um site. Hoje ela não é mais recomendada porque dificulta a manutenção do código, reduz a acessibilidade e mistura a estrutura do conteúdo com a apresentação.
+
+Durante a adaptação, a principal dificuldade foi organizar o conteúdo usando linhas e colunas, tornando o código mais extenso e menos organizado.
